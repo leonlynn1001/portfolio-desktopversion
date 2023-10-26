@@ -127,10 +127,6 @@ nav {
 
 .menu-links li a {
   text-decoration: none;
-}
-
-.menu-links li a {
-  text-decoration: none;
   cursor: pointer;
 }
 
@@ -141,13 +137,14 @@ nav {
   border-radius: 4px;
 }
 
-
 .menu-links li a:visited {
   color: #5f6b80;
 }
+
 .menu-links li a:active {
   color: #d3d7e1;
 }
+
 .testimonial {
   margin: 2em auto;
   width: 1156px;
@@ -393,15 +390,16 @@ textarea {
 @media (max-width: 1200px) {
   .cover {
     max-width: 1200px;
-    display:flex;
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-  .header-container{
+
+  .header-container {
     width: 100%;
   }
-  .footer-cover{
-   width: 100%;
-}
+
+  .footer-cover {
+    width: 100%;
+  }
 }
