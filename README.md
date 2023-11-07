@@ -6,6 +6,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#basic knowledge of html and css,bootstrap)
   - [Installation](#code editor,browser,bootstrap)
+-Hosted link to view project
 
 ## Introduction
 Creating a web page using html & css with no js to understand css dispaly-flex & grid properties.
