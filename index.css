@@ -127,6 +127,22 @@ nav {
 
 .menu-links li a {
   text-decoration: none;
+  cursor: pointer;
+}
+
+.menu-links li a:hover {
+  background-color: #7f8cff;
+  padding: 8px;
+  color: #fff;
+  border-radius: 4px;
+}
+
+.menu-links li a:visited {
+  color: #5f6b80;
+}
+
+.menu-links li a:active {
+  color: #d3d7e1;
 }
 
 .testimonial {
@@ -368,5 +384,22 @@ textarea {
 
   .testimonial-right {
     max-width: 500px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .cover {
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .header-container {
+    width: 100%;
+  }
+
+  .footer-cover {
+    width: 100%;
   }
 }
