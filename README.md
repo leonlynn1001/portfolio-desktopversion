@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#making a smiple page)
+- [HostedLink](#making a github.io link)
 - [Features](#nav bar,#hero-section,#about us,#contact)
 - [Getting Started](#getting-started)
   - [Prerequisites](#basic knowledge of html and css,bootstrap)
@@ -27,3 +28,5 @@ linters,git,nodejs
 
 ###
 hosted link: "https://leonlynn1001.github.io/portfolio-desktopversion/"
+
+
